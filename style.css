@@ -1,0 +1,28 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_mindiv{
+    border: 1px solid red;
+}
+.travel_mindiv img{
+     width: 100%;
+}
+.page-header{
+    color: rgb(255, 255, 255);
+}
+body{
+  background-color: rgb(255, 255, 255);
+}
+.movie_head{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+}
+.movie_head i {
+    float: right;
+}
+.movie_text p{
+    color: rgb(255, 255, 255);
+}
